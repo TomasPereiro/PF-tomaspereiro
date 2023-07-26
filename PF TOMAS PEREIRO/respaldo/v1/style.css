@@ -1,0 +1,27 @@
+.oculto{
+    display: none;
+}
+.tarjetaProducto{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+    width: 320px;
+    padding: 20px;
+    border: 1px solid;
+    margin-top: 20px;
+    background-color:aquamarine
+    
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    font-size:large;
+    color: black;
+}
+.botones{
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 7px;
+    border-color: black;
+
+}

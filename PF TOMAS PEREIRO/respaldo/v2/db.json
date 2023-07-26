@@ -1,0 +1,53 @@
+{
+    "arrayDeProductos": [
+        {
+            "id": 11,
+            "nombre": "ocean tee",
+            "categoria": "ropa",
+            "stock": 5,
+            "precio": 2500
+        },
+        {
+            "id": 22,
+            "nombre": "short",
+            "categoria": "ropa",
+            "stock": 2,
+            "precio": 1700
+        },
+        {
+            "id": 33,
+            "nombre": "hi hat",
+            "categoria": "accesorios",
+            "stock": 6,
+            "precio": 1100
+        },
+        {
+            "id": 44,
+            "nombre": "colgante luna",
+            "categoria": "joyeria",
+            "stock": 2,
+            "precio": 2300
+        },
+        {
+            "id": 55,
+            "nombre": "rinonera",
+            "categoria": "accesorios",
+            "stock": 4,
+            "precio": 2000
+        },
+        {
+            "id": 66,
+            "nombre": "anillo eight",
+            "categoria": "joyeria",
+            "stock": 5,
+            "precio": 3300
+        },
+        {
+            "id": 77,
+            "nombre": "hoodie",
+            "categoria": "ropa",
+            "stock": 1,
+            "precio": 2700
+        }
+    ]
+}
